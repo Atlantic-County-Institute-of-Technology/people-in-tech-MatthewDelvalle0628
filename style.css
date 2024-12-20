@@ -1,0 +1,27 @@
+body {
+    background-color: powderblue;
+}
+
+p{
+    font-size: 23px;
+    width: 850px;
+}
+
+img {
+    float: left;
+}            
+
+
+.quote {
+
+}
+table , tr, th, td {
+    border: 1px solid black;
+}
+
+
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+
+
